@@ -1,0 +1,6 @@
+node_modules/
+*.solcx
+yarn*
+cache/
+artifacts/
+coverage.json

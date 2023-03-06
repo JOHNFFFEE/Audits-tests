@@ -1,0 +1,10 @@
+
+yarn hardhat coverage  -- to check the pct of the coverage of the test
+
+# Run test cases
+yarn hardhat test
+
+
+
+
+@Lax
